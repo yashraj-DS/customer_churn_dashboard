@@ -1,4 +1,4 @@
-# Customer Churn Analysis Dashboard
+# Bank Churn Analysis Dashboard
 
 This project explores customer churn patterns using an interactive Power BI dashboard.
 The goal of this analysis is to understand how churn varies across different countries and identify patterns that might explain why customers leave.
